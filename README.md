@@ -41,7 +41,7 @@ Currently marked as "to be confirmed" where data was not provided:
 - Email address
 - Physical address
 - Operating hours
-- SUV/4x4/single cab and expert detailing pricing
+- Expert detailing pricing
 
 Update these directly in `index.html` once confirmed.
 
